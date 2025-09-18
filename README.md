@@ -2,10 +2,7 @@
 
 <h2 align="left">About me</h2>
 
-###
-
 ![ysplk](github-header-banner.png)
-
 <div align="center">
   <a href="https://www.google.com/search?q=https://www.linkedin.com/in/yushaplok_/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="66" height="40" alt="linkedin logo"  />
@@ -46,7 +43,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 <img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 <br>
