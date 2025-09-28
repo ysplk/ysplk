@@ -1,0 +1,28 @@
+# Nama Action-nya
+name: Generate Snake Animation
+
+# Kapan Action ini jalan
+on:
+  schedule:
+    # Jalanin tiap 12 jam
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+# Tugas yang harus dilakuin
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Pertama, ambil kode dari repo lu
+      - uses: actions/checkout@v2
+
+      # Ini dia si pembuat ulernya
+      - uses: Platane/snk@v2
+        with:
+          # Username GitHub lu (otomatis diambil)
+          github_user_name: ${{ github.repository_owner }}
+
+          # Ini bagian paling penting: nentuin warna dan nama file output
+          # color_dots itu buat warna badan ulernya, kita kasih gradasi api
+          outputs: |
+            dist/github-contribution-grid-snake-fire.svg?color_dots=#FFD700,#FFA500,#FF4500,#FF0000,#8B0000
