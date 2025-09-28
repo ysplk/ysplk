@@ -50,7 +50,9 @@
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/ysplk/main/dist/github-contribution-grid-snake-fire.svg" alt="api" >
+<img src="https://raw.githubusercontent.com/ysplk/ysplk/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 <div align="center">
