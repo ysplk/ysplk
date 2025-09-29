@@ -1,7 +1,8 @@
-![ysplk](giphy.gif)
+<p  align="center">
+<img src="giphy.gif" width="1000">
+</p>
 
 ---
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ysplk&radius=16&theme=github-dark&area=true&order=5&custom_title=Sibuk%20SIbuk%20SIbuk%20%F0%9F%94%A5&bg_color=000000&hide_border=true&hide_title=false&line=9745f5&area_color=9745f5&point=ffff&color=ffff&title_color=9745f5" height="300" alt="activity-graph graph"  />
 </div>
